@@ -1,7 +1,7 @@
 # 0_Project_Description
 Description of the Porsche Flight Advisor Project
 
-*  The project was launched during Stuttgart Hackathon 2019  *
+The project was launched during Stuttgart Hackathon 2019
 
 ---------------------------------------------------------------------
 
