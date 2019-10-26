@@ -19,6 +19,7 @@ To realize this, we combine the Stuttgart Airport-API with the Porsche Dashboard
 - Cross-Platform Mobile App, that shows all relevant flight information on your mobile device. While Data is automatically synced between server and mobile device
 
 
+![alt text](https://github.com/Pegasus-Stuttgart2019/0_Project_Description/blob/master/Documentation/project_overview.png)
 
 
 
